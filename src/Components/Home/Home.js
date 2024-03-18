@@ -1,7 +1,7 @@
 import React,{useEffect, useState} from 'react'
 import './Home.css'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
-import ProfileImage from '../ProfileImage/ProfileImage'
+// import ProfileImage from '../ProfileImage/ProfileImage'
 import Loader from 'react-loaders'
 
 
