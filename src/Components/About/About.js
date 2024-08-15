@@ -35,8 +35,8 @@ const About = () => {
           </h1>
 
           <h3 className="subtitle">
-            I'm Promise Chukwudi Paks
-            <span className="stack"> &lt;A FrontEnd Web/&gt;</span>
+            I'm Prince Pal
+            <span className="stack"> &lt;A Fullstack Developer/&gt;</span>
           </h3>
           <p>
             From the day I wrote my first line of code I knew I was hacked. My
@@ -48,12 +48,12 @@ const About = () => {
 
           <p>
             As someone who has always had a passion for improving with
-            technology, I found myself drawn to web development and it quickly
+            technology, I found myself drawn to Fullstack development and it quickly
             turned into a full-blown passion.
           </p>
 
           <p>
-            As a Front-End Developer with a passion for both coding and design,
+            As a Fullstack Developer with a passion for both coding and design,
             I am constantly seeking out new ways to bring my creative vision to
             life or seeking inspiration in the world around me. I am a firm
             believer in the power of collaboration and enjoy working closely
@@ -61,7 +61,7 @@ const About = () => {
             delivered on time and exceed expectations.
           </p>
           <p>
-            What I love most about Front-End Development is the way that it
+            What I love most about Fullstack Development is the way that it
             combines creativity with technical skills. It's a constantly
             evolving field that demands both artistry and precision, and I
             relish the opportunity to explore new technologies and techniques
