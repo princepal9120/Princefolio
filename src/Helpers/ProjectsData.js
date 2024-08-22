@@ -14,15 +14,7 @@ export const ProjectData = [
     tools: "REACT, Javascript, Appwrite, Tailwind CSS",
     id: 5,
   },
-  {
-    title: "Paks Everything Store",
-    image: Port5,
-    url: "https://pakseverythingstore.netlify.app/",
-    animationDelay: "w-1",
-    tools: "REACT, SCSS",
-    id: 1,
-  },
-
+ 
   // {
   //   title: "Admin Dashboard",
   //   image: Port6,
@@ -41,14 +33,14 @@ export const ProjectData = [
     id: 2,
   },
 
-  {
-    title: "Product Page",
-    image: Port3,
-    url: "https://product-pagex.netlify.app/",
-    animationDelay: "w-3",
-    tools: "REACT, SCSS",
-    id: 3,
-  },
+  // {
+  //   title: "Product Page",
+  //   image: Port3,
+  //   url: "https://product-pagex.netlify.app/",
+  //   animationDelay: "w-3",
+  //   tools: "REACT, SCSS",
+  //   id: 3,
+  // },
 
   // {
   //   title: "LinkedIn Clone",
