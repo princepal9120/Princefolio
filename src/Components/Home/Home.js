@@ -36,7 +36,7 @@ const Home = () => {
               <h2>Frontend Developer /Fullstack Developer/Backend Developer</h2>
       
  <div className="hire-me">
-                <a href="Prince-Resume.pdf" download className='flat-button'>View Resume</a>
+                <a href="Prince_Pal_Resume.pdf" download className='flat-button'>View Resume</a>
               </div>
           </div>
 

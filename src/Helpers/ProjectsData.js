@@ -1,7 +1,7 @@
 import Port1 from "../assets/images/BlogHub.png";
 import Port2 from "../assets/images/Currency-converter.png";
-import Port3 from "../assets/images/Product Image.png";
-import Port4 from "../assets/images/linkedin-clone.png";
+import Port3 from "../assets/images/LandingWebiste.png";
+import Port4 from "../assets/images/JobPortal.jpg";
 import Port5 from "../assets/images/Paks homes.png";
 import Port6 from "../assets/images/Admin Dashboard.png";
 
@@ -15,14 +15,14 @@ export const ProjectData = [
     id: 5,
   },
  
-  // {
-  //   title: "Admin Dashboard",
-  //   image: Port6,
-  //   url: "https://paks-admin-dashboard.netlify.app/",
-  //   animationDelay: "w-6",
-  //   tools: "REACT, SASS, RECHARTS, MUI",
-  //   id: 6,
-  // },
+  {
+    title: "Admin Dashboard",
+    image: Port6,
+    url: "https://paks-admin-dashboard.netlify.app/",
+    animationDelay: "w-6",
+    tools: "REACT, SASS, RECHARTS, MUI",
+    id: 6,
+  },
 
   {
     title: "Currency Converter",
@@ -33,21 +33,21 @@ export const ProjectData = [
     id: 2,
   },
 
-  // {
-  //   title: "Product Page",
-  //   image: Port3,
-  //   url: "https://product-pagex.netlify.app/",
-  //   animationDelay: "w-3",
-  //   tools: "REACT, SCSS",
-  //   id: 3,
-  // },
+  {
+    title: "Landing Page",
+    image: Port3,
+    url: "https://github.com/princepal9120/LandingWebsite",
+    animationDelay: "w-3",
+    tools: "REACT, Aceternity UI",
+    id: 3,
+  },
 
-  // {
-  //   title: "LinkedIn Clone",
+  {
+  //   title:"Jop Portal",
   //   image: Port4,
   //   url: "https://linkedin-clone-paks.netlify.app/",
   //   animationDelay: "w-4",
-  //   tools: "HTML, CSS, JavaScript",
+  //   tools: "Reacjs,Nodejs,Express,MongoDB",
   //   id: 4,
   // },
 
