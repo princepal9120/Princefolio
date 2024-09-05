@@ -42,7 +42,7 @@ export const ProjectData = [
     id: 3,
   },
 
-  {
+  // {
   //   title:"Jop Portal",
   //   image: Port4,
   //   url: "https://linkedin-clone-paks.netlify.app/",
