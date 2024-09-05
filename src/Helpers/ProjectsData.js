@@ -36,7 +36,7 @@ export const ProjectData = [
   {
     title: "Landing Page",
     image: Port3,
-    url: "https://github.com/princepal9120/LandingWebsite",
+    url: "https://course-landing-website--mu.vercel.app",
     animationDelay: "w-3",
     tools: "REACT, Aceternity UI",
     id: 3,
