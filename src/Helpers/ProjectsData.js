@@ -15,14 +15,14 @@ export const ProjectData = [
     id: 5,
   },
  
-  {
-    title: "Admin Dashboard",
-    image: Port6,
-    url: "https://paks-admin-dashboard.netlify.app/",
-    animationDelay: "w-6",
-    tools: "REACT, SASS, RECHARTS, MUI",
-    id: 6,
-  },
+  // {
+  //   title: "Admin Dashboard",
+  //   image: Port6,
+  //   url: "https://paks-admin-dashboard.netlify.app/",
+  //   animationDelay: "w-6",
+  //   tools: "REACT, SASS, RECHARTS, MUI",
+  //   id: 6,
+  // },
 
   {
     title: "Currency Converter",
@@ -42,13 +42,13 @@ export const ProjectData = [
     id: 3,
   },
 
-  // {
-  //   title:"Jop Portal",
-  //   image: Port4,
-  //   url: "https://linkedin-clone-paks.netlify.app/",
-  //   animationDelay: "w-4",
-  //   tools: "Reacjs,Nodejs,Express,MongoDB",
-  //   id: 4,
-  // },
+  {
+    title:"Jop Portal",
+    image: Port4,
+    url: "https://linkedin-clone-paks.netlify.app/",
+    animationDelay: "w-4",
+    tools: "Reacjs,Nodejs,Express,MongoDB",
+    id: 4,
+  },
 
 ];
