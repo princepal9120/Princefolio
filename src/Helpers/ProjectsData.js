@@ -1,18 +1,27 @@
 import Port1 from "../assets/images/BlogHub.png";
 import Port2 from "../assets/images/Currency-converter.png";
 import Port3 from "../assets/images/LandingWebiste.png";
-import Port4 from "../assets/images/JobPortal.jpg";
-import Port5 from "../assets/images/Paks homes.png";
-import Port6 from "../assets/images/Admin Dashboard.png";
+import Port4 from "../assets/images/HireHub.png";
+import Port5 from "../assets/images/Interviewai.png";
+// import Port6 from "../assets/images/Admin Dashboard.png";
 
 export const ProjectData = [
+  {
+    title:"Jop Portal",
+    image: Port4,
+    url: "https://hire-hub-three.vercel.app/",
+    animationDelay: "w-4",
+    tools: "Reacjs,Nodejs,Express,MongoDB",
+    id: 4,
+  },
+
   {
     title: "BlogHub",
     image: Port1,
     url: "https://blog-hub-1.vercel.app/",
     animationDelay: "w-5",
     tools: "REACT, Javascript, Appwrite, Tailwind CSS",
-    id: 5,
+    id: 1,
   },
  
   // {
@@ -23,7 +32,23 @@ export const ProjectData = [
   //   tools: "REACT, SASS, RECHARTS, MUI",
   //   id: 6,
   // },
-
+ 
+  {
+    title: "InterviewAi",
+    image: Port5,
+    url: "https://interviewai-smoky.vercel.app/",
+    animationDelay: "w-6",
+    tools: "REACT, SASS, RECHARTS, MUI",
+    id: 5,
+  },
+  {
+    title: "Landing Page",
+    image: Port3,
+    url: "https://course-landing-website--mu.vercel.app",
+    animationDelay: "w-3",
+    tools: "REACT, Aceternity UI",
+    id: 3,
+  },
   {
     title: "Currency Converter",
     image: Port2,
@@ -33,22 +58,7 @@ export const ProjectData = [
     id: 2,
   },
 
-  {
-    title: "Landing Page",
-    image: Port3,
-    url: "https://course-landing-website--mu.vercel.app",
-    animationDelay: "w-3",
-    tools: "REACT, Aceternity UI",
-    id: 3,
-  },
 
-  {
-    title:"Jop Portal",
-    image: Port4,
-    url: "https://linkedin-clone-paks.netlify.app/",
-    animationDelay: "w-4",
-    tools: "Reacjs,Nodejs,Express,MongoDB",
-    id: 4,
-  },
 
+ 
 ];
