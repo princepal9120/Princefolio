@@ -30,7 +30,7 @@ export const ProjectData = [
     url: "https://interviewai-smoky.vercel.app/",
 
     animationDelay: "w-5",
-    tools: "REACT, SASS, RECHARTS, MUI",
+    tools: "NextJs, Drizzle ORM, Gemini Api",
     id: 1,
   },
 
