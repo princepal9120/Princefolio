@@ -3,7 +3,7 @@ import Port2 from "../assets/images/Currency-converter.png";
 import Port3 from "../assets/images/LandingWebiste.png";
 import Port4 from "../assets/images/HireHub.png";
 import Port5 from "../assets/images/Interviewai.png";
-import Port6 from "../assets/images/image.png";
+import Port6 from "../assets/images/ecoquest.png";
 
 export const ProjectData = [
   {

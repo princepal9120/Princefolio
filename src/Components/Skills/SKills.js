@@ -14,6 +14,7 @@ import FirebaseIcon from '../../assets/images/icons8-firebase-240.png'
 import VsCodeIcon from '../../assets/images/icons8-visual-studio-code-2019-240.png'
 import TypescriptIcon from '../../assets/images/icons8-typescript-240.png'
 import NextIcon from '../../assets/images/icons8-nextjs-240.png'
+import NodeIcon from '../../assets/images/nodejs.png'
 
 const SKills = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
@@ -50,6 +51,7 @@ const SKills = () => {
             <img src={FirebaseIcon} alt="icons-img" className="skills-icon" />
             <img src={TypescriptIcon} alt="icons-img" className="skills-icon" />
             <img src={NextIcon} alt="icons-img" className="skills-icon" />
+            <img src={NodeIcon} alt="icons-img" className="skills-icon" />
           </div>
         </div>
 
