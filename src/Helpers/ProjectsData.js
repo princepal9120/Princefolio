@@ -4,6 +4,8 @@ import Port3 from "../assets/images/LandingWebiste.png";
 import Port4 from "../assets/images/HireHub.png";
 import Port5 from "../assets/images/learnifywithai.png";
 import Port6 from "../assets/images/ecoquest.png";
+import Port8 from "../assets/images/Currency-converter.png";
+import Port7 from "../assets/images/Interviewai.png";
 
 export const ProjectData = [
   {
@@ -15,7 +17,7 @@ export const ProjectData = [
     id: 2,
   },
   {
-    title: "Ecoquest",
+    title: "Ai Waste Management",
     image: Port6,
     url: "https://ecoquest-topaz.vercel.app",
     animationDelay: "w-6",
@@ -23,7 +25,7 @@ export const ProjectData = [
     id: 6,
   },
   {
-    title: "Learnify",
+    title: "Learnify (Lms)",
     image: Port5,
     url: "https://learnifywithai.onrender.com",
     animationDelay: "w-5",
@@ -54,4 +56,20 @@ export const ProjectData = [
     tools: "React, JavaScript, Appwrite, Tailwind CSS",
     id: 4,
   },
+  {
+    title: "Canvas Text Editor",
+    image: Port8,
+    url: "https://canvas-text-editor-kappa.vercel.app",
+    animationDelay: "w-8",
+    tools: "React, React-select,Tailwind CSS",
+    id: 8,
+
+  }, {
+    title: "Interview AI",
+    image: Port7,
+    url: "https://interview-smoky.vercel.app/",
+    animationDelay: "w-7",
+    tools: "NextJs, Drizzle ORM, NeonDb, Gemini Api",
+    id: 7,
+  }
 ];
