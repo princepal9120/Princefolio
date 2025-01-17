@@ -1,45 +1,41 @@
 import Port1 from "../assets/images/BlogHub.png";
-import Port2 from "../assets/images/Currency-converter.png";
+import Port2 from "../assets/images/chatbot.png";
 import Port3 from "../assets/images/LandingWebiste.png";
 import Port4 from "../assets/images/HireHub.png";
-import Port5 from "../assets/images/Interviewai.png";
+import Port5 from "../assets/images/learnifywithai.png";
 import Port6 from "../assets/images/ecoquest.png";
 
 export const ProjectData = [
   {
-    title: "Jop Portal",
-    image: Port4,
-    url: "https://talentbridge-1yxp.onrender.com/",
+    title: "Personalized ChatBot",
+    image: Port2,
+    url: "https://github.com/princepal9120/PersonalizedChatBot",
     animationDelay: "w-4",
-    tools: "Reacjs,Nodejs,Express,MongoDB",
-    id: 4,
+    tools: "NextJs, Gemini Api, Tailwind CSS, Langchain",
+    id: 2,
   },
-
   {
-    title: "BlogHub",
-    image: Port1,
-    url: "https://blog-hub-1.vercel.app/",
+    title: "Ecoquest",
+    image: Port6,
+    url: "https://ecoquest-topaz.vercel.app",
     animationDelay: "w-6",
-    tools: "REACT, Javascript, Appwrite, Tailwind CSS",
+    tools: "NextJs, Drizzle ORM, NeonDb, Gemini Api",
     id: 6,
   },
-
   {
-    title: "InterViewAi",
+    title: "Learnify",
     image: Port5,
-    url: "https://interviewai-smoky.vercel.app/",
-
+    url: "https://learnifywithai.onrender.com",
     animationDelay: "w-5",
-    tools: "NextJs, Drizzle ORM, Gemini Api",
+    tools: "Reat, Mongodb, Tailwind CSS,NodeJs, Express",
     id: 1,
   },
-
   {
-    title: "EcoQuest",
-    image: Port6,
-    url: "https://github.com/princepal9120/EcoQuest",
+    title: "Job Portal",
+    image: Port4,
+    url: "https://talentbridge-1yxp.onrender.com/",
+    tools: "ReactJS, NodeJS, Express, MongoDB",
     animationDelay: "w-6",
-    tools: "NextJs, Drizzle ORM,NeonDb,Gemini Api",
     id: 5,
   },
   {
@@ -51,11 +47,11 @@ export const ProjectData = [
     id: 3,
   },
   {
-    title: "Currency Converter",
-    image: Port2,
-    url: "https://currency-converter-2gyjo3rwg-princepal9120-gmailcom.vercel.app/",
+    title: "Blog Hub",
+    image: Port1,
+    url: "https://blog-hub-1.vercel.app/",
     animationDelay: "w-2",
-    tools: "React, CSS, JavaScript",
-    id: 2,
+    tools: "React, JavaScript, Appwrite, Tailwind CSS",
+    id: 4,
   },
 ];
