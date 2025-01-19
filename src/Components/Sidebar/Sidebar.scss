@@ -112,6 +112,11 @@ nav {
       content: 'CONTACT';
     }
   }
+  .nav-link.chatbot-link{
+    &:after{
+      content: 'CHATBOT';
+    }
+  }
   
   .nav-link:active {
       color: #ffd700;

@@ -10,12 +10,14 @@ import {
   faHome,
   faScrewdriverWrench,
   faUser,
+  faMessage
 } from "@fortawesome/free-solid-svg-icons";
 import {
   faGithub,
   faLinkedin,
   faInstagram,
   faTwitter,
+  
 } from "@fortawesome/free-brands-svg-icons";
 
 const Sidebar = () => {
@@ -92,6 +94,14 @@ const Sidebar = () => {
           className="contact-link nav-link"
         >
           <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
+        </NavLink>
+        <NavLink
+          exact="true"
+          activeclassname="active"
+          to={`https://prince-personalized-chatbot.vercel.app`}
+          className="chatbot-link nav-link"
+        >
+          <FontAwesomeIcon icon={faMessage} color="#4d4d4e" />
         </NavLink>
       </nav>
 

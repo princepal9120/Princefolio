@@ -1,5 +1,5 @@
 import Port1 from "../assets/images/BlogHub.png";
-import Port2 from "../assets/images/chatbot.png";
+import Port2 from "../assets/images/chatbot2.png";
 import Port3 from "../assets/images/LandingWebiste.png";
 import Port4 from "../assets/images/HireHub.png";
 import Port5 from "../assets/images/learnifywithai.png";
